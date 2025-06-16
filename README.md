@@ -6,6 +6,7 @@
 ├── 02-ADALINE
 ├── 03-MLPRegressor
 ├── 04-MLPClassifier
+├── .gitignore
 └── README.md
 ```
 

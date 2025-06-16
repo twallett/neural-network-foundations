@@ -47,18 +47,18 @@ The Perceptron is a fundamental neural network model for solving linearly sepera
 <table>
   <tr>
     <td style="width: 50%;">
-      <img src="https://github.com/twallett/LearnFromScratch/blob/main/NeuralNetworks/01-Perceptron/plots/perceptron_anim.gif" alt="First GIF" width="100%">
+      <img src="01-Perceptron/plots/perceptron_anim.gif" alt="First GIF" width="100%">
     </td>
     <td style="width: 50%;">
-      <img src="https://github.com/twallett/LearnFromScratch/blob/main/NeuralNetworks/01-Perceptron/plots/perceptron_sse.png" alt="Second GIF" width="100%">
+      <img src="01-Perceptron/plots/perceptron_sse.png" alt="Second GIF" width="100%">
     </td>
   </tr>
   <tr>
     <td style="width: 50%;">
-      <img src="https://github.com/twallett/LearnFromScratch/blob/main/NeuralNetworks/01-Perceptron/plots/perceptron_anim_xor.gif" alt="Third GIF" width="100%">
+      <img src="01-Perceptron/plots/perceptron_anim_xor.gif" alt="Third GIF" width="100%">
     </td>
     <td style="width: 50%;">
-      <img src="https://github.com/twallett/LearnFromScratch/blob/main/NeuralNetworks/01-Perceptron/plots/perceptron_sse_xor.png" alt="Fourth GIF" width="100%">
+      <img src="01-Perceptron/plots/perceptron_sse_xor.png" alt="Fourth GIF" width="100%">
     </td>
   </tr>
 </table>
@@ -90,10 +90,10 @@ ADALINE is a significant improvement over the Perceptron, as it utilizes a conti
 <table>
   <tr>
     <td style="width: 50%;">
-      <img src="https://github.com/twallett/LearnFromScratch/blob/main/NeuralNetworks/02-ADALINE/plots/adaline_anim.gif" alt="First GIF" width="100%">
+      <img src="02-ADALINE/plots/adaline_anim.gif" alt="First GIF" width="100%">
     </td>
     <td style="width: 50%;">
-      <img src="https://github.com/twallett/LearnFromScratch/blob/main/NeuralNetworks/02-ADALINE/plots/adaline_sse.png" alt="Second GIF" width="100%">
+      <img src="02-ADALINE/plots/adaline_sse.png" alt="Second GIF" width="100%">
     </td>
   </tr>
 </table>
@@ -143,15 +143,15 @@ The MLP Regressor's purpose is to serve as a function approximator. The main obj
 <table>
   <tr>
     <td style="width: 50%;">
-      <img src="https://github.com/twallett/LearnFromScratch/blob/main/NeuralNetworks/03-MLPRegressor/plots/MLPRegressor_target.png" alt="First GIF" width="100%">
+      <img src="03-MLPRegressor/plots/MLPRegressor_target.png" alt="First GIF" width="100%">
     </td>
     <td style="width: 50%;">
-      <img src="https://github.com/twallett/LearnFromScratch/blob/main/NeuralNetworks/03-MLPRegressor/plots/MLPRegressor_results.png" alt="Second GIF" width="100%">
+      <img src="03-MLPRegressor/plots/MLPRegressor_results.png" alt="Second GIF" width="100%">
     </td>
   </tr>
   <tr>
     <td style="width: 100%;">
-      <img src="https://github.com/twallett/LearnFromScratch/blob/main/NeuralNetworks/03-MLPRegressor/plots/MLPRegressor_mse.png" alt="Third GIF" width="100%">
+      <img src="03-MLPRegressor/plots/MLPRegressor_mse.png" alt="Third GIF" width="100%">
     </td>
   </tr>
 </table>
@@ -203,10 +203,10 @@ The MLP Classifier's purpose is to identify underlying patterns, or representati
 <table>
   <tr>
     <td style="width: 50%;">
-      <img src="https://github.com/twallett/LearnFromScratch/blob/main/NeuralNetworks/04-MLPClassifier/plots/MLPClassifier_anim.gif" alt="First GIF" width="100%">
+      <img src="04-MLPClassifier/plots/MLPClassifier_anim.gif" alt="First GIF" width="100%">
     </td>
     <td style="width: 50%;">
-      <img src="https://github.com/twallett/LearnFromScratch/blob/main/NeuralNetworks/04-MLPClassifier/plots/MLPClassifier_crossentropy.png" alt="Second GIF" width="100%">
+      <img src="04-MLPClassifier/plots/MLPClassifier_crossentropy.png" alt="Second GIF" width="100%">
     </td>
   </tr>
 </table>

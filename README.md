@@ -1,3 +1,14 @@
+## Folder Structure
+
+```bash
+.
+├── 01-Perceptron
+├── 02-ADALINE
+├── 03-MLPRegressor
+├── 04-MLPClassifier
+└── README.md
+```
+
 ## <u> Neural Network Foundations </u>
 
 This repository contains implementations and explanations of different neural network algorithms.
@@ -203,3 +214,9 @@ The MLP Classifier's purpose is to identify underlying patterns, or representati
 ## References 
 
 Oklahoma State University–Stillwater. (n.d.). https://hagan.okstate.edu/NNDesign.pdf 
+
+## Usage
+
+Each subdirectory contains its own set of implementations and explanatory notes. To explore the implementations and learn more about each concept, navigate to the respective subdirectory's README.md file.
+
+Feel free to explore, experiment, and contribute to this open source project.

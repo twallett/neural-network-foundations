@@ -7,6 +7,7 @@
 ├── 03-MLPRegressor
 ├── 04-MLPClassifier
 ├── .gitignore
+├── LICENSE
 └── README.md
 ```
 
